@@ -9999,3 +9999,4 @@ txn_date_time,policy_eff_dt,loss_dt,report_dt,insurance_type,premium_amount,clai
 2021-06-30,2018-10-11,2021-06-18,2021-06-23,Health,183.5,8000,AK,Y,53,32,Y,2,M,Mortgage,LI,Bachelor,A,Major Loss,None,1,1,OK,12,7,5
 2021-06-30,2016-01-29,2021-06-16,2021-06-21,Motor,113.46,2000,CA,Y,61,44,Y,7,M,Rent,MI,Bachelor,A,Total Loss,Ambulance,0,1,AR,6,9,5
 2021-06-30,2014-09-17,2021-06-21,2021-06-24,Mobile,8.22,300,OK,Y,64,106,Y,2,M,Rent,MI,Bachelor,A,Total Loss,Ambulance,1,0,CT,13,6,3
+
